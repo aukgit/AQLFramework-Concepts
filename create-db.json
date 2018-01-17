@@ -1,0 +1,3 @@
+{
+ sql:"if not exist db_id(@dbName) create @dbName;"
+}
